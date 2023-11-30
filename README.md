@@ -13,7 +13,7 @@ C++ Runtime Error Analyzer is a collection of Python scripts designed to assist 
 - [License](#license)
 - [Contact](#contact)
 
-##Contributing
+## Contributing
 
 If you would like to contribute to the project, follow these steps:
 
@@ -22,11 +22,11 @@ If you would like to contribute to the project, follow these steps:
     Commit your changes (git commit -am 'Add new feature')
     Push to the branch (git push origin feature/new-feature)
     Create a pull request
-##License
+## License
 
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 
 Feel free to reach out if you have any questions or suggestions:
 
